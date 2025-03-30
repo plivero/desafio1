@@ -1,6 +1,29 @@
-arquivo criado no item 6 do desafio
+letras maiúsculas
 
-adicionando um texto para o arquivo renomeado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARQUIVO CRIADO NO ITEM 6 DO desafio
+
+ADICIONANDO UM TEXTO PARA O ARQUIVO RENOMEADO
+
 ███████████████████████████
 ███████▀▀▀░░░░░░░▀▀▀███████
 ████▀░░░░░░░░░░░░░░░░░▀████
@@ -20,3 +43,5 @@ adicionando um texto para o arquivo renomeado
 ███████▄░░░░░░░░░░░▄███████
 ██████████▄▄▄▄▄▄▄██████████
 ███████████████████████████
+
+Fim de texto
